@@ -1,0 +1,29 @@
+li {
+    color: rgb(61, 0, 117);
+    font: 16/1.5 Helvetica, sans-serif;
+    padding: 0 10px;
+    display: inline-block;
+}
+nav{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    display: inline-block;
+}
+
+h1{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 50px;
+    display: inline-block;
+    font: 32/3 Helvetica, sans-serif;
+}
+
+hr {
+   height:2px;
+   background-color: black;
+}
+main {
+    font: 16/1.5 Helvetica,sens-serif;
+}
+
