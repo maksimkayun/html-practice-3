@@ -1,22 +1,17 @@
 li {
-    color: rgb(61, 0, 117);
-    font: 16/1.5 Helvetica, sans-serif;
+    color: rgb(49, 187, 14);
     padding: 0 10px;
     display: inline-block;
 }
-nav{
+nav {
     margin-top: 30px;
     margin-left: 30px;
     margin-right: 50px;
-    display: inline-block;
+    display: inline-block;   
 }
 
-h1{
-    margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 50px;
-    display: inline-block;
-    font: 32/3 Helvetica, sans-serif;
+h1 {    
+    display: inline-block;    
 }
 
 hr {
@@ -25,5 +20,11 @@ hr {
 }
 main {
     font: 16/1.5 Helvetica,sens-serif;
+}
+
+body {    
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
 }
 
