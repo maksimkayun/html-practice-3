@@ -1,0 +1,20 @@
+p {
+    text-align: left;
+}
+
+body {
+    background-color: rgb(237,237,237);
+}
+
+article {
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    font-style: rgb(50, 50, 50);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
